@@ -1,5 +1,5 @@
 <h1 align="center">About me</h1>
-<p align="center">As a developer, I enjoy using my obsessive attention to detail, my unequivocal love for making things, and my mission-driven work ethic to literally change the world. That's why I’m excited to make a big impact at a high growth teams</p>
+<p align="center">As a developer, I enjoy using my obsessive attention to detail, my unequivocal love for making things, and my mission-driven work ethic to literally change the world. That's why I’m excited to make a big impact at a high growth teams.</p>
 
 
 
