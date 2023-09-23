@@ -8,6 +8,7 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
     <img src="https://img.shields.io/badge/Python-593D88?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Typescript-4285F4?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next-dot-js&logoColor=white"/>
   <img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
