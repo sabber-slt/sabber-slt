@@ -1,5 +1,5 @@
 <h1 align="center">About me</h1>
-<p align="center">As a developer, I enjoy using my obsessive attention to detail, my unequivocal love for making things, and my mission-driven work ethic to literally change the world. That's why I’m excited to make a big impact at a high growth teams.</p>
+<p align="center">My career in development is driven by an obsessive attention to detail, a profound love for creation, and a steadfast dedication to mission-driven objectives. These attributes inspire me to enact change on a global scale. This is why I am keen to bring substantial contributions to innovative and rapidly evolving teams. </p>
 
 
 
